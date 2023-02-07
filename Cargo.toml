@@ -6,7 +6,7 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-str_indices = { git = "https://github.com/CeleritasCelery/str_indices", branch = "benchmark_issue" }
+str_indices = { git = "https://github.com/CeleritasCelery/str_indices", branch = "repo-issue" }
 
 
 [dev-dependencies]
